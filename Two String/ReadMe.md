@@ -1,0 +1,1 @@
+In VS Code needed to modify the .vscode/launch.json to change console to "console": "integratedTerminal", so we can debug console application
